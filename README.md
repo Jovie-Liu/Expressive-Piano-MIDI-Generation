@@ -35,11 +35,11 @@ The temporal feature of the performance is captured by the sequential model, and
 <img src="Pictures/statistics.png" style="width:900px">
 <caption><center> Figure 3. Statistics of Data and Generation Entropy Sequences of 5 LSTM Models.</center></caption>
 
+
 We propose several ways to select high quality generations from all generated samples. The main idea is to select generations with small entropy values regularized by the data statistics (making selected generation's entropy sequence close to data entropy sequences).
 
 ## Generated Samples
 
 https://github.com/user-attachments/assets/4567784d-dbed-4083-a266-879ed4c73ce6
-
-
-
+https://github.com/user-attachments/assets/c7a6df22-aad3-4052-bd87-f8f899910df0
+https://github.com/user-attachments/assets/766fc974-a133-4043-bd2e-5e3eec520e81
