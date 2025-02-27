@@ -1,5 +1,7 @@
 # Expressive Piano MIDI Generation
 
+- [Video Demo](https://www.youtube.com/watch?v=8nnAonkVY0g)
+
 ## Multi-Arguments I/O
 
 Five arguments are extracted from the MIDI files as sufficient statistics for expressive piano performances. The five fields are:
