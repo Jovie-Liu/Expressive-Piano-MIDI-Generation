@@ -40,19 +40,17 @@ We propose several ways to select high quality generations from all generated sa
 
 ## Generated Samples
 
+https://github.com/user-attachments/assets/96deee50-77b3-4841-be08-805ffdd7022d
+
+https://github.com/user-attachments/assets/e08d4ccd-19e2-4814-ab2d-66e8fd01e71a
+
 https://github.com/user-attachments/assets/4567784d-dbed-4083-a266-879ed4c73ce6
 
 https://github.com/user-attachments/assets/c7a6df22-aad3-4052-bd87-f8f899910df0
 
-https://github.com/user-attachments/assets/34ddcd0f-f800-49c6-932d-4821b4c59562
 
-https://github.com/user-attachments/assets/ea7c4fa3-99b1-4117-9a11-993b3bf26862
 
-https://github.com/user-attachments/assets/96deee50-77b3-4841-be08-805ffdd7022d
 
-https://github.com/user-attachments/assets/9fcf6d01-a912-4444-beb3-767c9e98f443
-
-https://github.com/user-attachments/assets/65133c98-c066-4634-b6c5-bd2628cf67ef
 
 
 
