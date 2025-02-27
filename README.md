@@ -1,6 +1,6 @@
 # Expressive Piano MIDI Generation
 
-- [Video Demo](https://www.youtube.com/watch?v=8nnAonkVY0g)
+- [Video Demo on YouTube](https://www.youtube.com/watch?v=8nnAonkVY0g)
 
 ## Multi-Arguments I/O
 
