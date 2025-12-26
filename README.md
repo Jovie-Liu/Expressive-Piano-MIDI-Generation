@@ -1,6 +1,8 @@
 # Expressive Piano MIDI Generation
 
+- Pre-prints [[paper1](https://hal.science/hal-05287022), [paper2](https://hal.science/hal-05287024), [paper3](https://hal.science/hal-05287026)] associated with ERC (European Research Council) Advanced Grant for [Project REACH: Raising Co-creativity in Cyber-Human Musicianship](http://repmus.ircam.fr/reach). IRCAM, France.
 - [Video Demo on YouTube](https://www.youtube.com/watch?v=8nnAonkVY0g)
+- Chapter 4 of my [Ph.D. dissertation](https://www.proquest.com/openview/581cd124d0c14930d566ba9010cecd67/1?pq-origsite=gscholar&cbl=18750&diss=y). The Ph.D. defense recording is [here](https://www.youtube.com/watch?v=Jzkn_w31lFA&list=PLRIfgTJKgMAoKh1kZnNjQaGCRggvxFUq4&index=4).
 
 ## Multi-Arguments I/O
 
